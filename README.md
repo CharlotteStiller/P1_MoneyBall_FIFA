@@ -1,5 +1,7 @@
 **MoneyBall FIFA Project**
 
+![photo](https://media.giphy.com/media/fr47mfwZh7FwTTnaTk/giphy.gif)
+
 What made you decide to do this project?
 I decided to do this project, because the fifa dataset gives **endless possibilities** to test my data analytics skills. 
 
